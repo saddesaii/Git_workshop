@@ -1,0 +1,3 @@
+Hello! I am passionate about discovering the world around me. This manifests in all kinds of ways, including a love of science and travel. I have worked on biological routes to renewable chemicals and been to at least 30 countries. I can't wait to use my programming skills to learn more faster.  
+
+I am interested to try project management with git with a group. I have used it for personal verson control one or two times, but I'm curious if we will do some form of code review when we have multiple people contributing. 
